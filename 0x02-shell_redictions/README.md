@@ -1,1 +1,0 @@
-SHell redirections README file
